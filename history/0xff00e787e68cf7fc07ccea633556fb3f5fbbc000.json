@@ -1,0 +1,80 @@
+{
+    "draws": [
+        {
+            "number": 1,
+            "drawn_at": "2022-03-17T11:21:11.608676579Z",
+            "winners": [
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                },
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                },
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                },
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                },
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                },
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                }
+            ],
+            "est_prizes": [
+                862793487898445430,
+                560815767133989510,
+                43139674394922270,
+                86279348789844540
+            ],
+            "total_deposited": 417734144311573464594,
+            "total_qualified": 0
+        },
+        {
+            "number": 2,
+            "drawn_at": "2022-03-24T07:01:16.938898939Z",
+            "winners": [
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                },
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                },
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                },
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                },
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                },
+                {
+                    "address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
+                    "qualified_amount": 0
+                }
+            ],
+            "est_prizes": [
+                508316680849928760,
+                330405842552453655,
+                25415834042496435,
+                50831668084992870
+            ],
+            "total_deposited": 417734144311573464594,
+            "total_qualified": 0
+        }
+    ]
+}
