@@ -2,17 +2,17 @@
     "next_id": 3,
     "contracts": [
         {
-            "id": 1,
-            "name": "PNG Weekly",
-            "staking_contract_address": "0xff00e787e68cf7fc07ccea633556fb3f5fbbc000",
-            "deposit_token_address": "0x60781c2586d68229fde47564546784ab3faca982",
-            "deposit_token_symbol": "PNG",
+            "id": 4,
+            "name": "USDT.e Weekly",
+            "staking_contract_address": "0x4e21b3A69f4c0a22782D98C90B7B4565A3d51722",
+            "deposit_token_address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+            "deposit_token_symbol": "USDT.e",
             "next_draw_time": "2022-03-31T07:00:00Z",
             "draw_interval": "weekly",
-            "coin_gecko_id": "pangolin",
-            "use_permit": true,
+            "coin_gecko_id": "tether",
+            "use_permit": false,
             "chain": "avalanche",
-            "details": "Tokens are staked on the Pangolin exchange.",
+            "details": "Tokens are lent on the TraderJoe exchange.",
             "hidden": false
         }
     ]
