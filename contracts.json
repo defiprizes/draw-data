@@ -7,7 +7,7 @@
             "staking_contract_address": "0xC0ad9Ac7Ee0DA2B94793F70449b706eCDdE6c480",
             "deposit_token_address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
             "deposit_token_symbol": "USDT.e",
-            "next_draw_time": "2022-04-05T07:00:00Z",
+            "next_draw_time": null,
             "draw_interval": "weekly",
             "coin_gecko_id": "tether",
             "use_permit": false,
