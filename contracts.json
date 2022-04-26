@@ -1,6 +1,20 @@
 {
-    "next_id": 3,
+    "next_id": 5,
     "contracts": [
+        {
+            "id": 1,
+            "name": "PNG Weekly",
+            "staking_contract_address": "0x011ef8F2607B9fF841a537B85d16a55408B1Ca5e",
+            "deposit_token_address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "deposit_token_symbol": "PNG",
+            "next_draw_time": null,
+            "draw_interval": "weekly",
+            "coin_gecko_id": "pangolin",
+            "use_permit": true,
+            "chain": "avalanche",
+            "details": "Tokens are staked on the Pangolin exchange.",
+            "hidden": false
+        },
         {
             "id": 4,
             "name": "USDT.e Weekly",
@@ -17,3 +31,5 @@
         }
     ]
 }
+
+
