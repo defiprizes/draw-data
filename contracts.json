@@ -18,7 +18,7 @@
         {
             "id": 4,
             "name": "USDT.e Weekly",
-            "staking_contract_address": "0xb039d3eC6d491180EA8E25B46e413657C9e10d55",
+            "staking_contract_address": "0x30c55Fb4eeddb51CbC151Fc41A91A0726673BC40",
             "deposit_token_address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
             "deposit_token_symbol": "USDT.e",
             "next_draw_time": null,
