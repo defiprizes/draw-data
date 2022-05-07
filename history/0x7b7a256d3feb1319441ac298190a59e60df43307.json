@@ -1,0 +1,43 @@
+{
+    "draws": [
+        {
+            "number": 1,
+            "drawn_at": "2022-05-07T18:33:06.418165102Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 60220637282477340
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 60220637282477340
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 60220637282477340
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 60220637282477340
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 60220637282477340
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 60220637282477340
+                }
+            ],
+            "prizes": [
+                66911819202752600,
+                43492682481789190,
+                3345590960137630,
+                6691181920275260
+            ],
+            "total_deposited": 417808490777354300824,
+            "total_qualified": 60220637282477340,
+            "txn_hash": "0x8bbf5c29d32277bee4a29f07df0cb1220afb4a58bb0fd77b71b0237d477aa4f8"
+        }
+    ]
+}
