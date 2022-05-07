@@ -7,7 +7,7 @@
             "staking_contract_address": "0x7b7a256d3feB1319441AC298190a59e60Df43307",
             "deposit_token_address": "0x60781C2586D68229fde47564546784ab3fACA982",
             "deposit_token_symbol": "PNG",
-            "next_draw_time": null,
+            "next_draw_time": "2022-05-07T18:30:00Z",
             "draw_interval": "weekly",
             "coin_gecko_id": "pangolin",
             "use_permit": true,
