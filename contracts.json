@@ -4,7 +4,7 @@
         {
             "id": 1,
             "name": "PNG Weekly",
-            "staking_contract_address": "0xcAeC5D7A4C9Eb325f081E0B14ea4748866a0d0C0",
+            "staking_contract_address": "0x7b7a256d3feB1319441AC298190a59e60Df43307",
             "deposit_token_address": "0x60781C2586D68229fde47564546784ab3fACA982",
             "deposit_token_symbol": "PNG",
             "next_draw_time": null,
