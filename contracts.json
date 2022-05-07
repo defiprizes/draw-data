@@ -4,10 +4,10 @@
         {
             "id": 1,
             "name": "PNG Weekly",
-            "staking_contract_address": "0x7b7a256d3feB1319441AC298190a59e60Df43307",
-            "deposit_token_address": "0x60781C2586D68229fde47564546784ab3fACA982",
+            "staking_contract_address": "0x7b7a256d3feb1319441ac298190a59e60df43307",
+            "deposit_token_address": "0x60781c2586d68229fde47564546784ab3faca982",
             "deposit_token_symbol": "PNG",
-            "next_draw_time": "2022-05-07T18:30:00Z",
+            "next_draw_time": "2022-05-14T18:30:00Z",
             "draw_interval": "weekly",
             "coin_gecko_id": "pangolin",
             "use_permit": true,
@@ -18,8 +18,8 @@
         {
             "id": 4,
             "name": "USDT.e Weekly",
-            "staking_contract_address": "0x30c55Fb4eeddb51CbC151Fc41A91A0726673BC40",
-            "deposit_token_address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+            "staking_contract_address": "0x30c55fb4eeddb51cbc151fc41a91a0726673bc40",
+            "deposit_token_address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
             "deposit_token_symbol": "USDT.e",
             "next_draw_time": null,
             "draw_interval": "weekly",
@@ -31,5 +31,3 @@
         }
     ]
 }
-
-
