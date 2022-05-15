@@ -7,7 +7,7 @@
             "staking_contract_address": "0x7b7a256d3feb1319441ac298190a59e60df43307",
             "deposit_token_address": "0x60781c2586d68229fde47564546784ab3faca982",
             "deposit_token_symbol": "PNG",
-            "next_draw_time": "2022-05-14T18:30:00Z",
+            "next_draw_time": "2022-05-21T18:30:00Z",
             "draw_interval": "weekly",
             "coin_gecko_id": "pangolin",
             "use_permit": true,
@@ -18,7 +18,7 @@
         {
             "id": 4,
             "name": "USDT.e Weekly",
-            "staking_contract_address": "0xa7D889a42eCa0AdE69B508f1279B95d3c150e4E4",
+            "staking_contract_address": "0xa7d889a42eca0ade69b508f1279b95d3c150e4e4",
             "deposit_token_address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
             "deposit_token_symbol": "USDT.e",
             "next_draw_time": null,
