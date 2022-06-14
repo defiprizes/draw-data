@@ -1,5 +1,5 @@
 {
-    "next_id": 5,
+    "next_id": 6,
     "contracts": [
         {
             "id": 1,
@@ -28,6 +28,20 @@
             "chain": "avalanche",
             "details": "Tokens are lent on the TraderJoe exchange.",
             "hidden": false
+        },
+        {
+            "id": 5,
+            "name": "USDt Weekly",
+            "staking_contract_address": "0x7828f74d79c64327a75f40bcff93ebf05c679317",
+            "deposit_token_address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+            "deposit_token_symbol": "USDt",
+            "next_draw_time": null,
+            "draw_interval": "weekly",
+            "coin_gecko_id": "tether",
+            "use_permit": false,
+            "chain": "avalanche",
+            "details": "Tokens are lent on AAVE.",
+            "hidden": true
         }
     ]
 }
