@@ -27,7 +27,8 @@
             "use_permit": false,
             "chain": "avalanche",
             "details": "Tokens are lent on the TraderJoe exchange.",
-            "hidden": false
+            "hidden": false,
+            "deprecated": true
         },
         {
             "id": 5,
