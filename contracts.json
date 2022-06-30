@@ -43,7 +43,7 @@
             "use_permit": false,
             "chain": "avalanche",
             "details": "Tokens are lent on AAVE.",
-            "hidden": true,
+            "hidden": false,
             "deprecated": false
         }
     ]
