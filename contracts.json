@@ -7,13 +7,14 @@
             "staking_contract_address": "0x7b7a256d3feb1319441ac298190a59e60df43307",
             "deposit_token_address": "0x60781c2586d68229fde47564546784ab3faca982",
             "deposit_token_symbol": "PNG",
-            "next_draw_time": "2022-06-30T07:01:00Z",
+            "next_draw_time": "2022-07-07T07:01:00Z",
             "draw_interval": "weekly",
             "coin_gecko_id": "pangolin",
             "use_permit": true,
             "chain": "avalanche",
             "details": "Tokens are staked on the Pangolin exchange.",
-            "hidden": false
+            "hidden": false,
+            "deprecated": false
         },
         {
             "id": 4,
@@ -42,7 +43,8 @@
             "use_permit": false,
             "chain": "avalanche",
             "details": "Tokens are lent on AAVE.",
-            "hidden": true
+            "hidden": true,
+            "deprecated": false
         }
     ]
 }
