@@ -314,6 +314,51 @@
             "total_deposited": 469078563818562657744,
             "total_qualified": 41577537879577575720,
             "txn_hash": "0x21b7924a52ed24012c4839751406358fdc0de00b593eb4b42049c3ac00f1ac91"
+        },
+        {
+            "number": 10,
+            "drawn_at": "2022-07-14T07:01:21.318837008Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 43927507268829338400,
+                    "prizes_int": 1
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 43927507268829338400,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 43927507268829338400,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 43927507268829338400,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 43927507268829338400,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 43927507268829338400,
+                    "prizes_int": 2
+                }
+            ],
+            "prizes": [
+                2611077099168625200,
+                1697200114459606380,
+                130553854958431260,
+                261107709916862520
+            ],
+            "total_deposited": 471979760595416685744,
+            "total_qualified": 43927507268829338400,
+            "txn_hash": "0xfc7807d2ffadb6807158e04975b8bd20d2b1688bf4c2463c0ec9bc130c2b77c1"
         }
     ]
 }
