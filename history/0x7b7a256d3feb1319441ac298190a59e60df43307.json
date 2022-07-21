@@ -359,6 +359,51 @@
             "total_deposited": 471979760595416685744,
             "total_qualified": 43927507268829338400,
             "txn_hash": "0xfc7807d2ffadb6807158e04975b8bd20d2b1688bf4c2463c0ec9bc130c2b77c1"
+        },
+        {
+            "number": 11,
+            "drawn_at": "2022-07-21T07:01:21.491272503Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 45933715034083560690,
+                    "prizes_int": 1
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 45933715034083560690,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 45933715034083560690,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 45933715034083560690,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 45933715034083560690,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 45933715034083560690,
+                    "prizes_int": 2
+                }
+            ],
+            "prizes": [
+                2229119739171358100,
+                1448927830461382765,
+                111455986958567905,
+                222911973917135810
+            ],
+            "total_deposited": 474456560305607083634,
+            "total_qualified": 45933715034083560690,
+            "txn_hash": "0x5cb34af2a4e6f76f3a47048030ce6bdcdd409a5dd8e7df61105d088ab3503ed2"
         }
     ]
 }
