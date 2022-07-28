@@ -404,6 +404,51 @@
             "total_deposited": 474456560305607083634,
             "total_qualified": 45933715034083560690,
             "txn_hash": "0x5cb34af2a4e6f76f3a47048030ce6bdcdd409a5dd8e7df61105d088ab3503ed2"
+        },
+        {
+            "number": 12,
+            "drawn_at": "2022-07-28T07:01:23.323517944Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 47884742111279971620,
+                    "prizes_int": 1
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 47884742111279971620,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 47884742111279971620,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 47884742111279971620,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 47884742111279971620,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 47884742111279971620,
+                    "prizes_int": 2
+                }
+            ],
+            "prizes": [
+                2167807863551567700,
+                1409075111308519005,
+                108390393177578385,
+                216780786355156770
+            ],
+            "total_deposited": 476865235709553269974,
+            "total_qualified": 47884742111279971620,
+            "txn_hash": "0x42bc20c70a65653efd3e6512f69ab5146ac8e2a6b384c6c58eee04961721387e"
         }
     ]
 }
