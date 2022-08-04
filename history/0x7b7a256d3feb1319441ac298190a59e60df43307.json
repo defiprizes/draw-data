@@ -449,6 +449,51 @@
             "total_deposited": 476865235709553269974,
             "total_qualified": 47884742111279971620,
             "txn_hash": "0x42bc20c70a65653efd3e6512f69ab5146ac8e2a6b384c6c58eee04961721387e"
+        },
+        {
+            "number": 13,
+            "drawn_at": "2022-08-04T07:01:22.172522011Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 49658300327624131440,
+                    "prizes_int": 1
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 49658300327624131440,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 49658300327624131440,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 49658300327624131440,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 49658300327624131440,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 49658300327624131440,
+                    "prizes_int": 2
+                }
+            ],
+            "prizes": [
+                1970620240382399800,
+                1280903156248559870,
+                98531012019119990,
+                197062024038239980
+            ],
+            "total_deposited": 479054813754422603094,
+            "total_qualified": 49658300327624131440,
+            "txn_hash": "0xf4c06db7ff9502effecc33b4ccc17e21d34e269c2710b2aa7e3d5ec775d695fb"
         }
     ]
 }
