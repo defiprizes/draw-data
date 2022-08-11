@@ -494,6 +494,51 @@
             "total_deposited": 479054813754422603094,
             "total_qualified": 49658300327624131440,
             "txn_hash": "0xf4c06db7ff9502effecc33b4ccc17e21d34e269c2710b2aa7e3d5ec775d695fb"
+        },
+        {
+            "number": 14,
+            "drawn_at": "2022-08-11T07:01:23.968139612Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 51438936651766932690,
+                    "prizes_int": 1
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 51438936651766932690,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 51438936651766932690,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 51438936651766932690,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 51438936651766932690,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 51438936651766932690,
+                    "prizes_int": 2
+                }
+            ],
+            "prizes": [
+                1978484804603112500,
+                1286015122992023125,
+                98924240230155625,
+                197848480460311250
+            ],
+            "total_deposited": 481253130203981616984,
+            "total_qualified": 51438936651766932690,
+            "txn_hash": "0x2dd656343708dbcb50a643e5cdaef5a7e1d24d0fce026189c7116a4b583e4ad4"
         }
     ]
 }
