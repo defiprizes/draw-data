@@ -314,6 +314,51 @@
             "total_deposited": 603727140,
             "total_qualified": 3018960,
             "txn_hash": "0xa518d773b016a11cff356701f982eb8a7dba170011d8a249037a1256118384cd"
+        },
+        {
+            "number": 8,
+            "drawn_at": "2022-08-30T07:01:22.674383751Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 3422160,
+                    "prizes_int": 1
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 3422160,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 3422160,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 3422160,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 3422160,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 3422160,
+                    "prizes_int": 2
+                }
+            ],
+            "prizes": [
+                448000,
+                291200,
+                22400,
+                44800
+            ],
+            "total_deposited": 604224920,
+            "total_qualified": 3422160,
+            "txn_hash": "0xb8817371078cd6700309170beaf3da6e09e751ad6102f445c1055c582ed77c4d"
         }
     ]
 }
