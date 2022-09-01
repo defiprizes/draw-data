@@ -629,6 +629,51 @@
             "total_deposited": 485809439529356323434,
             "total_qualified": 55129547205320444910,
             "txn_hash": "0x52f4d71731881e3e7a969e441c6bfdf880943b46f7528dc16576e2ba3507cc66"
+        },
+        {
+            "number": 17,
+            "drawn_at": "2022-09-01T07:01:23.748249988Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 56667737325697759890,
+                    "prizes_int": 1
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 56667737325697759890,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 56667737325697759890,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 56667737325697759890,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 56667737325697759890,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 56667737325697759890,
+                    "prizes_int": 2
+                }
+            ],
+            "prizes": [
+                1709100133752572200,
+                1110915086939171930,
+                85455006687628610,
+                170910013375257220
+            ],
+            "total_deposited": 487708439677970292554,
+            "total_qualified": 56667737325697759890,
+            "txn_hash": "0x971c75ec85f7cbc78fec982e72ef054ed50f128c667205f313101bcfce157461"
         }
     ]
 }
