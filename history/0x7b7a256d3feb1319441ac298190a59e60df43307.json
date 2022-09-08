@@ -674,6 +674,51 @@
             "total_deposited": 487708439677970292554,
             "total_qualified": 56667737325697759890,
             "txn_hash": "0x971c75ec85f7cbc78fec982e72ef054ed50f128c667205f313101bcfce157461"
+        },
+        {
+            "number": 18,
+            "drawn_at": "2022-09-08T07:01:23.728163815Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 57972761870551439220,
+                    "prizes_int": 1
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 57972761870551439220,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 57972761870551439220,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 57972761870551439220,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 57972761870551439220,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 57972761870551439220,
+                    "prizes_int": 2
+                }
+            ],
+            "prizes": [
+                1450027272059643700,
+                942517726838768405,
+                72501363602982185,
+                145002727205964370
+            ],
+            "total_deposited": 489319581091369896674,
+            "total_qualified": 57972761870551439220,
+            "txn_hash": "0x1ca519690a540aa412eadef2c02491ae4a81f3c753eaf297865f1764cc33abb1"
         }
     ]
 }
