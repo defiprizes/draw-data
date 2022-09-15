@@ -719,6 +719,51 @@
             "total_deposited": 489319581091369896674,
             "total_qualified": 57972761870551439220,
             "txn_hash": "0x1ca519690a540aa412eadef2c02491ae4a81f3c753eaf297865f1764cc33abb1"
+        },
+        {
+            "number": 19,
+            "drawn_at": "2022-09-15T07:01:22.732322957Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 59067288126981259650,
+                    "prizes_int": 1
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 59067288126981259650,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 59067288126981259650,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 59067288126981259650,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 59067288126981259650,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 59067288126981259650,
+                    "prizes_int": 2
+                }
+            ],
+            "prizes": [
+                1216140284922022700,
+                790491185199314755,
+                60807014246101135,
+                121614028492202270
+            ],
+            "total_deposited": 490670848074616588564,
+            "total_qualified": 59067288126981259650,
+            "txn_hash": "0x7006550ebb15a6feb73c9ea0e3b713c269f2eeb6559cf4065c9a2d120210c4f2"
         }
     ]
 }
