@@ -37,7 +37,7 @@
             "staking_contract_address": "0xbfba41e492d17e2dcae86b0db42c38459c56d537",
             "deposit_token_address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
             "deposit_token_symbol": "USDt",
-            "next_draw_time": "2022-10-13T07:01:00Z",
+            "next_draw_time": "2022-11-13T07:01:00Z",
             "draw_interval": "monthly",
             "coin_gecko_id": "tether",
             "use_permit": false,
