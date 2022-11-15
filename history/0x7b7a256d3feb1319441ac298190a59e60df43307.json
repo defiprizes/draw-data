@@ -809,6 +809,51 @@
             "total_deposited": 490670848074616588564,
             "total_qualified": 62273288447744920560,
             "txn_hash": "0x3e374000d75b88d4f66da613dd5c360f0bbc822985f7606477e01dccf57a0f23"
+        },
+        {
+            "number": 21,
+            "drawn_at": "2022-11-15T07:01:24.618669503Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 63629553755347651080,
+                    "prizes_int": 1
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 63629553755347651080,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 63629553755347651080,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 63629553755347651080,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 63629553755347651080,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 63629553755347651080,
+                    "prizes_int": 2
+                }
+            ],
+            "prizes": [
+                1506961452891922800,
+                979524944379749820,
+                75348072644596140,
+                150696145289192280
+            ],
+            "total_deposited": 78569130464730026980,
+            "total_qualified": 62273288447744920560,
+            "txn_hash": "0xb8cbae244ccd520762a227d5b288d771524c38e9a0d62bb549ccffbf4aca6c80"
         }
     ]
 }
