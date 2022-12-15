@@ -854,6 +854,51 @@
             "total_deposited": 78569130464730026980,
             "total_qualified": 62273288447744920560,
             "txn_hash": "0xb8cbae244ccd520762a227d5b288d771524c38e9a0d62bb549ccffbf4aca6c80"
+        },
+        {
+            "number": 22,
+            "drawn_at": "2022-12-15T07:01:21.209216336Z",
+            "winners": [
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 64291614347769063750,
+                    "prizes_int": 1
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 64291614347769063750,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 64291614347769063750,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 64291614347769063750,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 64291614347769063750,
+                    "prizes_int": 2
+                },
+                {
+                    "address": "0xc34e76b4a459055867b44f98952c43ef4cd187b7",
+                    "qualified_amount": 64291614347769063750,
+                    "prizes_int": 2
+                }
+            ],
+            "prizes": [
+                735622880468236300,
+                478154872304353595,
+                36781144023411815,
+                73562288046823630
+            ],
+            "total_deposited": 79386489220805845100,
+            "total_qualified": 64291614347769063750,
+            "txn_hash": "0xa589a6f9e110f8cddc32b732d3c6886b1c9989be844b496fd6cdb8c3e2c1974f"
         }
     ]
 }
